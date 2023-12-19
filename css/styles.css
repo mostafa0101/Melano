@@ -10971,9 +10971,12 @@ section {
   height: 100%;
 }
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> f4ddeae629edba560b9637c5c3b222554482aaa4
 section.cta {
   position: relative;
   padding: 15rem 0;
@@ -10996,9 +10999,12 @@ section.cta:before {
 }
 
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> f4ddeae629edba560b9637c5c3b222554482aaa4
 section.ccca {
   position: relative;
   padding: 15rem 0;
@@ -11181,7 +11187,11 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .masthead {
+<<<<<<< HEAD
   background-color: #fff;
+=======
+  background-color: #f8f9fa;
+>>>>>>> f4ddeae629edba560b9637c5c3b222554482aaa4
   padding-top: 9.5rem;
   padding-bottom: 5rem;
 }
