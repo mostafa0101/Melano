@@ -4,5 +4,5 @@
 <h5>Also my first paid project :)</h5>
 <hr>
 <h1>Tech Used: </h1>
-<h3>PHP, HTML5, CSS3, JavaScript, BootStrap, MYSQL</h3>
+<h3>HTML5, CSS3, JavaScript, BootStrap</h3>
 <hr>
